@@ -21,12 +21,12 @@ Built to strengthen skills in:
 
 ## 🧱 Tables Included
 
-- `agents`
-- `properties`
-- `clients`
-- `visits`
-- `deals`
-- `feedback` *(bonus table (not used ))*
+- "agents"
+- "properties"
+- "clients"
+- "visits"
+- "deals"
+- "feedback" *(bonus table (not used ))*
 
 ---
 
@@ -51,9 +51,9 @@ Built to strengthen skills in:
 
 ## 📎 Files
 
-- `Property Management and Sales.pdf` – Full query + schema documentation
-- `real_estate_sql_project.sql` – All code in one file
-- `README.md` – Project summary
+- Full query + schema documentation  – (./Property_Management_and_Sales.pdf)
+- All code in one file  – (./real_estate_sql_project.sql)
+  
 
 ---
 
