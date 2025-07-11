@@ -51,8 +51,8 @@ Built to strengthen skills in:
 
 ## 📎 Files
 
-- [ Full query + schema documentation ]   (./Property_Management_and_Sales.pdf)
-- [ All code in one file]   (./real_estate_sql_project.sql)
+- [ Full query + schema documentation ](./Property_Management_and_Sales.pdf)
+- [ All code in one file ](./real_estate_sql_project.sql)
   
 
 ---
